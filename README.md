@@ -1,5 +1,10 @@
 # Toolz
 
+## If you liked it you can support my work
+[!["Buy Me A Coffee"](https://raw.githubusercontent.com/michal-repo/random_stuff/refs/heads/main/bmac_small.png)](https://buymeacoffee.com/michaldev)
+
+
+
 <p align="center">
  <img src="src/assets/toolz/icon.svg" alt="Toolz"
 	title="b2ntp" width="160" height="160" />
